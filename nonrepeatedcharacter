@@ -1,0 +1,5 @@
+s="hello"
+for i in s:
+    x=s.count(i)
+    if x==1:
+        print(i)
