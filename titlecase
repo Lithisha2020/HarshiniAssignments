@@ -1,0 +1,3 @@
+str1=input("enter the string")
+str=str1.title()
+print("title case of",str1,"is",str)
